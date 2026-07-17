@@ -17,12 +17,6 @@ Partially documented.
 
 - Mentioned in Brample Note 1.
 
-## Community Claims
-
-- Co-leader of Team c00lkidd
-- Created offiz/nobrain
-- Connected to Crimiasma
-
 ## Evidence
 
 ### Screenshot
